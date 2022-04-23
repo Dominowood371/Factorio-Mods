@@ -3,7 +3,10 @@
 
 ### Description
 
-> Translations of various mods from [nexusmods](https://www.nexusmods.com/valheim/) and [thunderstore](https://valheim.thunderstore.io/) into Russian for the game **Valheim**. 
+> Translations of various mods from [mods.factorio.com](https://mods.factorio.com) into Russian for the game **Factorio**. 
 
 ### Описание
-> Переводы различных модов из [nexusmods](https://www.nexusmods.com/valheim/) и [thunderstore](https://valheim.thunderstore.io/) на русский язык для игры **Valheim**.
+> Переводы различных модов из [mods.factorio.com](https://mods.factorio.com) на русский язык для игры **Factorio**.
+
+### Установка
+Скачайте файл для нужного мода и переместите его в архив мода в папку `\мод\locale\ru` если нету папки создайте её.
